@@ -1,6 +1,6 @@
 
 
-path: C:\Users\jmoni\OneDrive\Área de Trabalho\Fatec\5° Sem\yolo_helmet\data\helmets
+path: /content/setup_epi
 train: train
 val: valid
 test: test
