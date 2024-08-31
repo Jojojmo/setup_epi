@@ -1,0 +1,14 @@
+
+
+path: C:\Users\jmoni\OneDrive\Área de Trabalho\Fatec\5° Sem\yolo_helmet\data\helmets
+train: train
+val: valid
+test: test
+
+
+#nc: 2  # número de classes, pode ser mais de uma se tiver outras classes além das falsas
+#names: ['object', 'no_object']  # nome das classes, pode ser 'object' e 'no_object', por exemplo
+
+names:
+  0: no_helmet
+  1: helmet
