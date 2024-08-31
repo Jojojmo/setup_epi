@@ -1,6 +1,6 @@
 
 
-path: /content/setup_epi
+path: /content/setup_epi/data/helmets
 train: train
 val: valid
 test: test
