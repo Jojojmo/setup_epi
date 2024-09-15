@@ -10,5 +10,5 @@ test: test
 #names: ['object', 'no_object']  # nome das classes, pode ser 'object' e 'no_object', por exemplo
 
 names:
-  0: no_helmet
   1: helmet
+  2: head
